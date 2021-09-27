@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach me -mail me at prajwalbaranwal@gmail.com
+- 📫 How to reach me -mail me at prajwalbaranwal19@gmail.com
 
 <!---
 buddy1920/buddy1920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
